@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2017-01-04T03:56:03.000Z</updated>
+  <updated>2017-01-04T04:03:54.000Z</updated>
   <id>/</id>
   
   <author>
@@ -20,11 +20,13 @@
     <link href="/2017/01/03/first-article/"/>
     <id>/2017/01/03/first-article/</id>
     <published>2017-01-03T12:00:22.000Z</published>
-    <updated>2017-01-04T03:56:03.000Z</updated>
+    <updated>2017-01-04T04:03:54.000Z</updated>
     
     <summary type="html">
     
     </summary>
+    
+      <category term="deep_learning" scheme="/categories/deep-learning/"/>
     
     
       <category term="journal" scheme="/tags/journal/"/>
