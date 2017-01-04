@@ -4,12 +4,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="/"/>
   <updated>2017-01-03T12:54:03.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Zhiqun Hee</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>first_article</title>
-    <link href="http://yoursite.com/2017/01/03/first-article/"/>
-    <id>http://yoursite.com/2017/01/03/first-article/</id>
+    <link href="/2017/01/03/first-article/"/>
+    <id>/2017/01/03/first-article/</id>
     <published>2017-01-03T12:00:22.000Z</published>
     <updated>2017-01-03T12:54:03.000Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/01/03/hello-world/"/>
-    <id>http://yoursite.com/2017/01/03/hello-world/</id>
+    <link href="/2017/01/03/hello-world/"/>
+    <id>/2017/01/03/hello-world/</id>
     <published>2017-01-03T11:43:18.000Z</published>
     <updated>2017-01-03T11:43:18.000Z</updated>
     
